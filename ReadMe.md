@@ -66,6 +66,7 @@ At the time of writing the folder includes `Generic.buttonMap`, which has every 
 - VPC WarBRD Constellation Alpha Prime (Right)
 - VPC WarBRD-D with Constellation Alpha Prime (Left hand and side)
 - VPC WarBRD-D with Constellation Alpha Prime (Right hand and side)
+- WinCTRL CarrierAce PTO 2
 - WinWing/WINCTRL MFD
 - Winwing/WINCTRL Orion Throttle Base II + F15EX HANDLE L + F15EX HANDLE R (Left)
 

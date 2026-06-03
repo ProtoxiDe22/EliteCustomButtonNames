@@ -33,42 +33,44 @@ Inside you will find a folder called `DeviceButtonMaps` and in it is a `Readme.t
 Instead you want to go to your Bindings folder, which is at `%LocalAppData%\Frontier Developments\Elite Dangerous\Options\Bindings`. If you have been playing for any length of time you probably know the importance of keeping a backup of this folder. In this Git repo, go to `.\files\INTO Bindings` and copy the `DeviceButtonMaps` folder from there to your own Bindings folder. That's it, all done. 
 
 At the time of writing the folder includes `Generic.buttonMap`, which has every button and axis defined, so as to act as a starting point for your own customization, plus complete button maps for the following devices (in alphabetical order):
-- CH Products Pro Throttle USB
-- Footcontrol USB
-- Sony DualSense
-- Sony DualSense Edge
-- Thrustmaster T.16000M
-- Thrustmaster TWCS
-- TurtleBeach VelocityOne FlightStick
-- Virpil Universal Control Panel #2
-- VKB Gladiator NXT EVO Space Combat Grip Premium (Left)
-- VKB Gladiator NXT Premium Right
-- VKB Gladiator NXT EVO Space Combat Grip Premium (Left)
-- VKB Gladiator NXT EVO Space Combat Grip Premium (Right)
-- VKB Gladiator NXT EVO Space Combat Grip Premium OmniThrottle (Left)
-- VKB Gladiator NXT EVO Space Combat Grip Premium OmniThrottle (Right)
-- VKB Gladiator NXT EVO Space Combat Grip Premium (Right) + GNX FSM-GA module
-- VKB Gunfighter Space Combat Grip Premium (Right)
-- VKB STECS Modern Throttle System Standard
-- VKB STECS Regular Throttle System Mini Plus (Left)
-- VKB STECS Space Throttle Grip Max (Left)
-- VKB STECS Space Throttle Grip Mini (Left)
-- VKB STECS Space Throttle Grip Mini (Right)
-- VKB STECS Space Throttle Grip Mini Plus (Left)
-- VKB STECS Space Throttle Grip Mini Plus (Right)
-- VKB STECS Space Throttle Grip Standard (Left)
-- VKB STECS Space Throttle Grip Standard (Right)
-- VPC Control Panel 3 (Right side)
-- VPC MT-50CM3 with Constellation Alpha (Right hand, no side/center)
-- VPC Rudder Pedals ACE
-- VPC Throttle MT-50CM3 (Left)
-- VPC VMAX Prime Throttle (Left side)
-- VPC WarBRD Constellation Alpha Prime (Right)
-- VPC WarBRD-D with Constellation Alpha Prime (Left hand and side)
-- VPC WarBRD-D with Constellation Alpha Prime (Right hand and side)
-- WinCTRL CarrierAce PTO 2
-- WinWing/WINCTRL MFD
-- Winwing/WINCTRL Orion Throttle Base II + F15EX HANDLE L + F15EX HANDLE R (Left)
+
+| Device | Filename |
+| ------ | ---------|
+| CH Products Pro Throttle USB| CHProThrottle1.buttonMap |
+| Footcontrol USB| 09111844.buttonMap |
+| Sony DualSense| 054C0CE6.buttonMap |
+| Sony DualSense Edge| 054C0DF2.buttonMap |
+| Thrustmaster T.16000M| T16000M.buttonMap |
+| Thrustmaster TWCS| T16000MTHROTTLE.buttonMap |
+| TurtleBeach VelocityOne FlightStick| 10F57055.buttonMap |
+| Virpil Universal Control Panel #2| 3344025A.buttonMap |
+| VKB Gladiator NXT EVO Space Combat Grip Premium (Left)| 231D0201.buttonMap |
+| VKB Gladiator NXT EVO Space Combat Grip Premium (Right)| 231D0200.buttonMap |
+| VKB Gladiator NXT EVO Space Combat Grip Premium OmniThrottle (Left)| 231D3201.buttonMap |
+| VKB Gladiator NXT EVO Space Combat Grip Premium OmniThrottle (Right)| 231D3200.buttonMap |
+| VKB Gladiator NXT EVO Space Combat Grip Premium (Right) + GNX FSM/GA module| 231D0220.buttonMap |
+| VKB Gunfighter Space Combat Grip Premium (Right)| 231D0126.buttonMap |
+| VKB STECS Modern Throttle System Standard| 231D012D.buttonMap |
+| VKB STECS Regular Throttle System Mini Plus (Left)| 231D012C.buttonMap |
+| VKB STECS Space Throttle Grip Max (Left)| 231D0139.buttonMap |
+| VKB STECS Space Throttle Grip Mini (Left)| 231D0136.buttonMap |
+| VKB STECS Space Throttle Grip Mini (Right)| 231D013A.buttonMap |
+| VKB STECS Space Throttle Grip Mini Plus (Left)| 231D0137.buttonMap |
+| VKB STECS Space Throttle Grip Mini Plus (Right)| 231D013B.buttonMap |
+| VKB STECS Space Throttle Grip Standard (Left)| 231D0138.buttonMap |
+| VKB STECS Space Throttle Grip Standard (Right)| 231D013C.buttonMap |
+| VPC Control Panel 3 (Right side)| 3344425C.buttonMap |
+| VPC MT\|50CM3 with Constellation Alpha (Right hand, no side/center)| 33440388.buttonMap |
+| VPC Rudder Pedals ACE| 334401F8.buttonMap |
+| VPC Throttle MT\|50CM3 (Left)| VPCThrottle.buttonMap |
+| VPC VMAX Prime Throttle (Left side)| 33448196.buttonMap |
+| VPC WarBRD Constellation Alpha Prime (Right)| 334400D4.buttonMap |
+| VPC WarBRD\|D with Constellation Alpha Prime (Left hand and side)| 334483F4.buttonMap |
+| VPC WarBRD\|D with Constellation Alpha Prime (Right hand and side)| 334443F5.buttonMap |
+| WINCTRL CarrierAce PTO 2| 4098BF05.buttonMap |
+| WINCTRL MFD| 4098BEE1.buttonMap |
+| WINCTRL MFD 1| 4098BEE2.buttonMap |
+| WINCTRL Orion Throttle Base II + F15EX HANDLE L + F15EX HANDLE R (Left)| 4098BD64.buttonMap |
 
 As Frontier's readme notes, you can edit and save these button maps while the game is running to experiment with how different names and icons look. Just go into Options -> Controls and the game will re-read them.
 
